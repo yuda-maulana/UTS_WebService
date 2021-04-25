@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <mahasiswa>
+        <nama>Yuda Maulana</nama>
+        <jurusan>Informatika</jurusan>
+        <angkatan>2018</angkatan>
+        <alamat>Cigalontang</alamat>
+    </mahasiswa>
+     <mahasiswa>
+        <nama>Alif Alparisi</nama>
+        <jurusan>Informatika</jurusan>
+        <angkatan>2018</angkatan>
+        <alamat>Sodonghilir</alamat>
+    </mahasiswa>
+    <mahasiswa>
+        <nama>Novi Fazriah</nama>
+        <jurusan>Informatika</jurusan>
+        <angkatan>2018</angkatan>
+        <alamat>Pagerageung</alamat>
+    </mahasiswa>
+       <mahasiswa>
+        <nama>Dede Septa Maulana Fajar</nama>
+        <jurusan>Informatika</jurusan>
+        <angkatan>2018</angkatan>
+        <alamat>Ciawi</alamat>
+    </mahasiswa>
+       <mahasiswa>
+        <nama>Irfan Hidayat</nama>
+        <jurusan>Informatika</jurusan>
+        <angkatan>2018</angkatan>
+        <alamat>Ciamis</alamat>
+    </mahasiswa>
+       <mahasiswa>
+        <nama>Ahmad Lutfi</nama>
+        <jurusan>Informatika</jurusan>
+        <angkatan>2018</angkatan>
+        <alamat>Taraju</alamat>
+    </mahasiswa>
+</data>
