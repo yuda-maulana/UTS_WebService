@@ -1,0 +1,32 @@
+[
+    {
+        "nama" : "Seagate SSD 240GB SATA 3",
+        "jenis" : "SSD",
+        "harga" : "Rp. 519.000",
+        "stok" : "20"
+    },
+    {
+        "nama" : "VenomRX Memory RAM Dekstop 8GB DDR4-3000 With RGB Heatsink",
+        "jenis" : "RAM",
+        "harga" : "Rp. 615.000",
+        "stok" : "50"
+    },
+    {
+        "nama" : "LG Widescreen LED Monitor Komputer (19 inch)",
+        "jenis" : "Monitor",
+        "harga" : "Rp. 925.000",
+        "stok" : "20"
+    },
+    {
+        "nama" : "ASRock Phantom Gaming D Radeon RX570",
+        "jenis" : "VGA",
+        "harga" : "Rp. 1.500.000",
+        "stok" : "12"
+    },
+    {
+        "nama" : "Logitech G903 Wireless Gaming Mouse Black",
+        "jenis" : "Mouse",
+        "harga" : "Rp. 1.899.000",
+        "stok" : "6"
+    }
+]
